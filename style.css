@@ -100,10 +100,21 @@ img {
 
 .quality,
 .education,
+.code,
 .lang {
   font-size: 17px;
   color: #fff;
   line-height: 26px;
   margin-left: 25px;
   font-style: italic;
+}
+
+a {
+  color: seashell;
+  text-decoration: none;
+  transition: color 0.2s linear;
+}
+a:hover {
+  color: rgb(209, 106, 106);
+  text-decoration: underline;
 }
