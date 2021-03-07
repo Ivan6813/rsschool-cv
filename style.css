@@ -109,12 +109,12 @@ img {
   font-style: italic;
 }
 
-a {
+.link {
   color: seashell;
   text-decoration: none;
   transition: color 0.2s linear;
 }
-a:hover {
+.link:hover {
   color: rgb(209, 106, 106);
   text-decoration: underline;
 }
