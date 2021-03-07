@@ -79,11 +79,6 @@ img {
   font-style: italic;
 }
 
-.profile {
-  background: #59595c;
-  height: 600px;
-}
-
 .title-1 {
   font-size: 24px;
   font-weight: 700;
@@ -114,6 +109,30 @@ img {
   transition: color 0.2s linear;
 }
 .link:hover {
+  color: rgb(209, 106, 106);
+  text-decoration: underline;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  background-color: #323233;
+  position: absolute;
+  bottom: -175px;
+  left: 275px;
+  width: 800px;
+  box-shadow: 20px 20px 20px #363434;
+  border: 1px solid #9d95da;
+}
+
+.link-footer {
+  color: seashell;
+  text-decoration: none;
+  transition: color 0.2s linear;
+}
+
+.link-footer:hover {
   color: rgb(209, 106, 106);
   text-decoration: underline;
 }
