@@ -79,11 +79,6 @@ img {
   font-style: italic;
 }
 
-.profile {
-  background: #59595c;
-  height: 600px;
-}
-
 .title-1 {
   font-size: 24px;
   font-weight: 700;
@@ -100,10 +95,40 @@ img {
 
 .quality,
 .education,
-.lang {
+.lang,
+.code {
   font-size: 17px;
   color: #fff;
   line-height: 26px;
   margin-left: 25px;
   font-style: italic;
+}
+
+.link {
+  color: seashell;
+  text-decoration: none;
+  transition: color 0.2s linear;
+}
+.link:hover {
+  color: rgb(209, 106, 106);
+  text-decoration: underline;
+}
+
+.foot {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  background-color: #434344;
+  align-items: flex-end;
+}
+
+.link-footer {
+  color: rgb(245, 207, 180);
+  text-decoration: none;
+  transition: color 0.2s linear;
+}
+
+.link-footer:hover {
+  color: rgb(209, 106, 106);
+  text-decoration: underline;
 }
