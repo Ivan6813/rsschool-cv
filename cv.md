@@ -8,7 +8,7 @@
 
 ### _Profile_
 
-My name is Ivan and I am 27 years old. I am from a small town Novopolotsk. I lead an active lifestyle and I haven't bad habits. I regret that I didn't start learning programming earlier . So I set myself the goal of learn programming. I have everything for this :
+My name is Ivan and I am 27 years old. I am from Novopolotsk. I worked in an oil refinery. There were no career prospects. So I decided to change my profession. I started learning JavaScript. This will give me unlimited growth prospects. I have everything for this :
 
 - _Tenacity_
 - _Teamwork skills_
