@@ -10,10 +10,11 @@
 
 My name is Ivan and I am 27 years old. I am from a small town Novopolotsk. I lead an active lifestyle and I haven't bad habits. I regret that I didn't start learning programming earlier . So I set myself the goal of learn programming. I have everything for this :
 
-- _perseverance_
-- _desire to work full time_
-- _learnability_
-- _desire to constantly develop and not sit still_
+- _Tenacity_
+- _Teamwork skills_
+- _Perseverance_
+- _Responsibility_
+- _Good concentration_
 
 I like to find solutions to various problems, write code.
 
