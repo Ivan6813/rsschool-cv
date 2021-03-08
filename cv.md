@@ -29,6 +29,8 @@ I like to find solutions to various problems, write code.
 
 ### _Education_
 
-I started learning JavaScript on my own, I do it every day. Now I'm taking a JavaScript / Front-end course at RS School. I study English with a tutor.
+Novopolotsk State Professional Lyceum of Petrochemistry 2010-2013.
+
+Now I’m taking a JavaScript / Front-end course at RS School. I study English with a tutor.
 
 ### _English level - A2._
