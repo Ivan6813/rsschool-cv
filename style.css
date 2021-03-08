@@ -119,10 +119,10 @@ img {
   justify-content: center;
   padding: 5px;
   background-color: #434344;
-  position: absolute;
   bottom: -166px;
   left: 525px;
   width: 550px;
+  align-items: flex-end;
 }
 
 .link-footer {
