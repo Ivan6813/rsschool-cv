@@ -118,17 +118,15 @@ img {
   display: flex;
   justify-content: center;
   padding: 5px;
-  background-color: #323233;
+  background-color: #434344;
   position: absolute;
-  bottom: -175px;
-  left: 275px;
-  width: 800px;
-  box-shadow: 20px 20px 20px #363434;
-  border: 1px solid #9d95da;
+  bottom: -166px;
+  left: 525px;
+  width: 550px;
 }
 
 .link-footer {
-  color: seashell;
+  color: rgb(245, 207, 180);
   text-decoration: none;
   transition: color 0.2s linear;
 }
